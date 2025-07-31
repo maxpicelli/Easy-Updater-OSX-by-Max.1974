@@ -4,12 +4,7 @@
 Application to Update macOs similar to Update OTA from System. Using installer off line
 
 
-<iframe width="320" height="180"  
-  src="https://www.youtube-nocookie.com/embed/00GayE-Qmq8"  
-  frameborder="0"  
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"  
-  allowfullscreen>
-</iframe>
+[![Assista ao vídeo](https://img.youtube.com/vi/00GayE-Qmq8/0.jpg)](https://www.youtube.com/watch?v=00GayE-Qmq8)
 
 
 Este vídeo apresenta uma ferramenta para ser utilizada tanto em macs reais quanto em Hackintoshes. Necessita desabilitar seu SIP para o uso em modo Recovery: 
@@ -35,12 +30,15 @@ Aproveite seu instalador pois é gratuito. 100 % Genuíno Apple Script e Sheel S
 
 
 
-
 <img width="614" height="614" alt="2easy - cópia" src="https://github.com/user-attachments/assets/53eed73a-ab11-40bb-8d5c-e117fc36196e" />
+
 
 
 Apoio e inspiração 
 
+
 ![20250731_1601_Hackintosh 360° Showcase_simple_compose_01k1gxsaswesqt1t5f3vzpx6pw](https://github.com/user-attachments/assets/2c185208-02f1-4021-8aa1-91ec52145ce3)
+
+https://github.com/hnanoto
 
 
