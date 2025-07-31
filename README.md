@@ -29,6 +29,9 @@ Aproveite seu instalador pois é gratuito. 100 % Genuíno Apple Script e Sheel S
 * * 
 
 Download Relase v1.0.0
+
+* *
+  
 https://github.com/maxpicelli/Easy-Updater-OSX-by-Max.1974/releases/download/macOS-Updater-Tool/Easy.Updater.OSX.By.Max.1974.zip
 
 * * 
