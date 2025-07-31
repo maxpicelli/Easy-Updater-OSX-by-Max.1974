@@ -3,6 +3,15 @@
 # Easy-Updater-OSX-by-Max.1974
 Application to Update macOs similar to Update OTA from System. Using installer off line
 
+
+<iframe width="320" height="180"  
+  src="https://www.youtube-nocookie.com/embed/00GayE-Qmq8"  
+  frameborder="0"  
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"  
+  allowfullscreen>
+</iframe>
+
+
 Este vídeo apresenta uma ferramenta para ser utilizada tanto em macs reais quanto em Hackintoshes. Necessita desabilitar seu SIP para o uso em modo Recovery: 
 1. Ao subir em modo Recovery, abra o Terminal e digite uma linha após a outra:
 
@@ -22,7 +31,16 @@ Assim que reiniciar ele solicitará seu consentimento e nenhum dado terá sido p
 
 Aproveite seu instalador pois é gratuito. 100 % Genuíno Apple Script e Sheel Script.
 
+* * 
 
-<img width="1024" height="1024" alt="2easy" src="https://github.com/user-attachments/assets/4fdc479f-d051-486a-85cf-2bf8b325cf63" />
+
+
+
+<img width="614" height="614" alt="2easy - cópia" src="https://github.com/user-attachments/assets/53eed73a-ab11-40bb-8d5c-e117fc36196e" />
+
+
+Apoio e inspiração 
+
+![20250731_1601_Hackintosh 360° Showcase_simple_compose_01k1gxsaswesqt1t5f3vzpx6pw](https://github.com/user-attachments/assets/2c185208-02f1-4021-8aa1-91ec52145ce3)
 
 
