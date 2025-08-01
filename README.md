@@ -3,9 +3,11 @@
 # Easy-Updater-OSX-by-Max.1974
 Application to Update macOs similar to Update OTA from System. Using installer off line
 
+Clique na imagem para assistir ao vídeo postado no Youtube:
 
 [![Assista ao vídeo](https://img.youtube.com/vi/00GayE-Qmq8/0.jpg)](https://www.youtube.com/watch?v=00GayE-Qmq8)
 
+**Easy Updater OSX App - macOs Update Tahoe Sequoia Sonoma Ventura Monterey Hackintosh tool**
 
 Este vídeo apresenta uma ferramenta para ser utilizada tanto em macs reais quanto em Hackintoshes. Necessita desabilitar seu SIP para o uso em modo Recovery: 
 1. Ao subir em modo Recovery, abra o Terminal e digite uma linha após a outra:
