@@ -24,7 +24,8 @@ reboot
 
 Assim que reiniciar ele solicitará seu consentimento e nenhum dado terá sido perdido, mas importante sempre fazer backups de seus dados e documentos.
 
-* * Nota: ao fazer o update do macOS Tahoe 26 beta 3 para o Tahoe beta 4 ele ativa o FileVault, por isso é importante abrir o FileVault e desativar a criptografia do disco, pois nas máquinas com Hackintosh isso pode causar tela preta. 
+* * Nota: ao fazer o update do macOS Tahoe 26 beta 8 para o Tahoe beta 9 (e anteriores) ele ativa o FileVault.
+* * Por isso é importante abrir o FileVault e desativar a criptografia do disco, pois nas máquinas com Hackintosh isso pode causar tela preta. 
 
 Aproveite seu instalador pois é gratuito. 100 % Genuíno Apple Script e Sheel Script.
 
